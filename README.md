@@ -114,7 +114,7 @@ src/
 ## 📲 Kontak
 
 - Website: [your-website.com](https://your-website.com)
-- Instagram: [@yourhandle](https://www.instagram.com/hafiyan_a_u/)
+- Instagram: [@hafiyan_a_u](https://www.instagram.com/hafiyan_a_u/)
 - LinkedIn: [Hafiyan | Al Muqaffi Umary](https://www.linkedin.com/in/habstrakt808/)
 - Email: jhodywiraputra@gmail.com
 
