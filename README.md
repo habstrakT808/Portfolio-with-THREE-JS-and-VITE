@@ -131,5 +131,3 @@ MIT License © [Hafiyan | Al Muqaffi Umary](https://github.com/habstrakT808)
 <p align="center">
   <b>Terima kasih telah mengunjungi portfolio saya! Silakan ⭐️ repo ini jika Anda suka 😄</b>
 </p>
-
-```javascript
